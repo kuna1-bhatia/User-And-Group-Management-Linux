@@ -1,0 +1,9 @@
+sudo usermod -aG Devops Kunal    # To add use in group
+
+sudo groupadd Devops              # To create an group
+
+sudo passwd -l Kunal             # To lock the user
+
+sudo passwd -u Linux            # To unlock the user
+
+sudo usermod -aG sudo Kunal     # To give sudo access
