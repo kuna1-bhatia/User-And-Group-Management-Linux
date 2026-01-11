@@ -1,0 +1,2 @@
+sudo passwd -l Kunal
+sudo passwd -u Linux
